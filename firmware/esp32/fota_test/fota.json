@@ -1,5 +1,5 @@
 {
     "type": "esp32",
     "version": "1.0.0",
-    "url": "http://192.168.0.100/fota/esp32-fota-http-2.bin"
+    "url": "https://raw.githubusercontent.com/wmd1942/wmd1942.github.io/refs/heads/master/firmware/esp32/fota_test/esp32_fota.ino.esp32.bin.enc"
 }
