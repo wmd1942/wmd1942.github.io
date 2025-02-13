@@ -1,5 +1,5 @@
 {
     "type": "esp32-test",
     "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/wmd1942/wmd1942.github.io/refs/heads/master/firmware/esp32/fota_test/esp32_fota.img"
+    "url": "https://raw.githubusercontent.com/wmd1942/wmd1942.github.io/refs/heads/master/firmware/esp32/fota_test/esp32_fota.img.enc"
 }
